@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ride Sharing Demo</string>
+    <string name="login">Username: </string>
+    <string name="doLogin">Login</string>
+    <string name="Username">Username</string>
+    <string name="password">Password: </string>
+    <string name="register">Register</string>
+    <string name="email">Email: </string>
+    <string name="address">Address: </string>
+    <string name="phone">Phone: </string>
+    <string name="cc">Credit Card: </string>
+    <string name="dob">Date of Birth: </string>
+    <string name="lic">Drivers License: </string>
+
+</resources>
